@@ -7,6 +7,7 @@ Hola! Lo que va el proyecto de **Login** es que, compartiré como hice un progra
 ## Inicio de Sesión
 
 ![image](https://github.com/uyelnico/Login/assets/145890121/0cb90b0c-fd64-4848-8116-d4c83686a7cb)
+![image](https://github.com/uyelnico/Login/assets/145890121/47bed11f-5ae8-4b4d-a6ae-144e989bb894)
 
 ## Guía para Descargar WindowsBuilder
 
@@ -374,11 +375,4 @@ public class perfil extends JFrame {
 }
 ```
 
-¡Eso seria todo!
-
-![image](https://github.com/uyelnico/Login/assets/145890121/47bed11f-5ae8-4b4d-a6ae-144e989bb894)
-
 `Author: Nicolay_Chiazzaro`
-
-
-
