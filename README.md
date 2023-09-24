@@ -376,6 +376,8 @@ public class perfil extends JFrame {
 
 ¡Eso seria todo!
 
+![image](https://github.com/uyelnico/Login/assets/145890121/47bed11f-5ae8-4b4d-a6ae-144e989bb894)
+
 `Author: Nicolay_Chiazzaro`
 
 
