@@ -10,3 +10,8 @@ public class datos {
 	
 	public static final String FOTO_PERFIL = "C:\\Users\\wikic\\Pictures\\Camera Roll";
 }
+
+/**
+ * @author Nicolay Chiazzaro
+ *
+ */
