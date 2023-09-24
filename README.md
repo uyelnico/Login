@@ -1,4 +1,4 @@
-![image](https://github.com/uyelnico/Login/assets/145890121/c7274e9c-1b66-412f-9c60-aaf873bfd7e2)![image](https://github.com/uyelnico/Login/assets/145890121/be0463ba-f94e-4b32-a4d1-1b06f1069ab0)![image](https://github.com/uyelnico/Login/assets/145890121/8bb8b085-4c20-4a51-86ec-8f3001db230e)### IMPORTANTE
+### IMPORTANTE
 
 Hola! Lo que va el proyecto de **Login** es que, compartiré como hice un programa para Iniciar sesión con el código **Java**. Aviso que el código tanto como el proyecto se van a ir avanzando con el tiempo, lo mismo, que encontrar formas mas optimizables e efectivas a la hora de crear un código. Espero que con el programa que estoy creando te sea de ayuda, cualquier duda/pregunta que tengas podes hacerlo en mi Instagram **@uy.elnico**
 
