@@ -2,12 +2,15 @@
 
 Hola! Lo que va el proyecto de **Login** es que, compartiré como hice un programa para Iniciar sesión con el código **Java**. Aviso que el código tanto como el proyecto se van a ir avanzando con el tiempo, lo mismo, que encontrar formas mas optimizables e efectivas a la hora de crear un código. Espero que con el programa que estoy creando te sea de ayuda, cualquier duda/pregunta que tengas podes hacerlo en mi Instagram **@uy.elnico**
 
+
 ![image](https://github.com/uyelnico/Login/assets/145890121/f5fe4947-89d2-40a1-8ff9-93c85962355a)
 
 ## Inicio de Sesión
 
+![image](https://github.com/uyelnico/Login/assets/145890121/df4dcda9-7f6f-4aad-91d7-06d900bfe268)
+
+
 ![image](https://github.com/uyelnico/Login/assets/145890121/0cb90b0c-fd64-4848-8116-d4c83686a7cb)
-![image](https://github.com/uyelnico/Login/assets/145890121/47bed11f-5ae8-4b4d-a6ae-144e989bb894)
 
 ## Guía para Descargar WindowsBuilder
 
