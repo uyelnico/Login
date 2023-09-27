@@ -31,11 +31,22 @@ WindowsBuilder es una herramienta de desarrollo de GUI para **Java** que simplif
 ## Package
 
 ```Java
-package proceso;
+package ejecutar; // Carpeta donde estara el archivo inicio.java para arrancar el código
+package info; // Carpeta donde estara el archivo datos.java para agregar los datos que hay (nombre, contraseña, cedula, etc)
+package paginas; // Carpeta donde estaran las paginas actuales (con el tiempo iremos agregando más). 
 ```
 
 ## Import
 
+Aclaro que cada archivo `.java` hay que llamarlo con cada carpeta para que esten vinculadas.
+
+Dentro de las carpetas de **ejecutar**
+```java
+import paginas.logeo;
+```
+
+Dentro de las carpetas de **paginas**
+  
 ```java
 import java.awt.EventQueue; // Es una clase que proporciona un mecanismo para encolar eventos y ejecutar tareas en el hilo de despacho de eventos (Event Dispatch Thread, EDT) de Java Swing. El EDT es responsable de manejar eventos de interfaz de usuario en aplicaciones gráficas. Importar esta clase permite trabajar con eventos y tareas de manera segura en el contexto de una aplicación gráfica.
 import javax.swing.*; // Es un paquete que contiene clases y componentes para construir interfaces gráficas de usuario (GUI) en Java. Importar javax.swing.* permite acceder a todas las clases y componentes de Swing, lo que facilita la creación de interfaces gráficas en una aplicación.
@@ -46,7 +57,7 @@ import java.awt.*; //  Es un paquete que proporciona clases y componentes básic
 import java.awt.event.ActionEvent; // Es una clase que representa un evento de acción, como un clic de botón, en una interfaz gráfica de usuario. Importar esta clase permite manejar eventos de acción generados por componentes de la interfaz.
 import java.awt.event.ActionListener; // Es una interfaz que se utiliza para escuchar eventos de acción generados por componentes gráficos, como botones. Importar esta interfaz permite implementar oyentes de eventos de acción para responder a interacciones del usuario.
 
-import static proceso.datos.*; // Esta línea importa elementos estáticos (métodos o campos estáticos) del paquete o clase llamada proceso.datos. El uso de static significa que no es necesario crear una instancia de la clase proceso.datos para acceder a estos elementos, se pueden utilizar directamente. El contenido específico de esta importación depende de lo que esté definido en el paquete o clase proceso.datos.
+import static info.datos.*; // Esta línea importa elementos estáticos (métodos o campos estáticos) del paquete o clase llamada info.datos. El uso de static significa que no es necesario crear una instancia de la clase info.datos para acceder a estos elementos, se pueden utilizar directamente. El contenido específico de esta importación depende de lo que esté definido en el paquete o clase info.datos.
 ```
 
 ## datos.java
