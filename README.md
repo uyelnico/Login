@@ -41,12 +41,15 @@ Aclaro que cada archivo `.java` hay que llamarlo con cada carpeta para que esten
 
 Dentro de las carpetas de **ejecutar**
 ```java
+package ejecutar;
+import java.awt.EventQueue;
 import paginas.logeo;
 ```
 
 Dentro de las carpetas de **paginas**
   
 ```java
+package paginas;
 import java.awt.EventQueue; // Es una clase que proporciona un mecanismo para encolar eventos y ejecutar tareas en el hilo de despacho de eventos (Event Dispatch Thread, EDT) de Java Swing. El EDT es responsable de manejar eventos de interfaz de usuario en aplicaciones gráficas. Importar esta clase permite trabajar con eventos y tareas de manera segura en el contexto de una aplicación gráfica.
 import javax.swing.*; // Es un paquete que contiene clases y componentes para construir interfaces gráficas de usuario (GUI) en Java. Importar javax.swing.* permite acceder a todas las clases y componentes de Swing, lo que facilita la creación de interfaces gráficas en una aplicación.
 import javax.swing.border.CompoundBorder; // Es una clase que representa un borde compuesto que puede combinar varios bordes simples en un solo borde para decorar componentes Swing. Importar esta clase permite utilizar bordes compuestos en elementos de la interfaz gráfica para mejorar su apariencia.
