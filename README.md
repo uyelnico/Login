@@ -7,8 +7,7 @@ Hola! Lo que va el proyecto de **Login** es que, compartiré como hice un progra
 
 ## Inicio de Sesión
 
-![image](https://github.com/uyelnico/Login/assets/145890121/df4dcda9-7f6f-4aad-91d7-06d900bfe268)
-
+![image](https://github.com/uyelnico/Login/assets/145890121/2ea4decb-40c2-4819-8a0e-211d11918a22)
 
 ![image](https://github.com/uyelnico/Login/assets/145890121/0cb90b0c-fd64-4848-8116-d4c83686a7cb)
 
