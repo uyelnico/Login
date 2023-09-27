@@ -64,7 +64,7 @@ import static info.datos.*; // Esta línea importa elementos estáticos (método
 
 ## datos.java
 
-Dfine una clase llamada "datos" que contiene constantes estáticas utilizadas para establecer valores predeterminados.
+Define una clase llamada "datos" que contiene constantes estáticas utilizadas para establecer valores predeterminados.
 
 ```java
 public class datos {
@@ -99,7 +99,7 @@ public class inicio {
 ```
 ## logeo.java
 
-una ventana de inicio de sesión con validación de usuario y contraseña. Cuando el usuario presiona el botón "Entrar" con datos válidos, la ventana de inicio de sesión se cierra y se abre una ventana de menú.
+Una ventana de inicio de sesión con validación de usuario y contraseña. Cuando el usuario presiona el botón "Entrar" con datos válidos, la ventana de inicio de sesión se cierra y se abre una ventana de menú.
 
 ```
 La clase logeo extiende JFrame, lo que la convierte en una ventana de la interfaz gráfica.
